@@ -4,5 +4,3 @@
 ```
 docker-compose up --build
 ```
-
-## 課題1
